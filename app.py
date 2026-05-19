@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/website_intelligence_app_v6.py
